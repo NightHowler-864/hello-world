@@ -1,2 +1,6 @@
 # hello-world
-another repository
+
+Hi there Humans!
+
+NightHowler_864 here. My real name is Abdul Kareem.
+I am just a child who likes Programming.
